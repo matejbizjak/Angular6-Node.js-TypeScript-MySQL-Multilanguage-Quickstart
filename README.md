@@ -1,2 +1,2 @@
 # Angular6 Node.js TypeScript MySQL Quickstart
-#### Angular6 for front-end and Node.js in Typescript with TypeORM and MySQL for back-end. Quickstart with authorization and personalized front-end pages for each user role included.
+#### Angular6 for front-end and Node.js in Typescript with TypeORM and MySQL for back-end. Quickstart with authorization, personalized front-end pages for each user role and multilanguage included.
